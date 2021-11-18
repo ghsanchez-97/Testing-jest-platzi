@@ -1,0 +1,14 @@
+{
+  "name": "jsbase",
+  "version": "1.0.0",
+  "description": "Pruebas unitarias con jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Guy Sánchez",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
